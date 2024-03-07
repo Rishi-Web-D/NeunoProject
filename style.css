@@ -364,6 +364,7 @@ nav > .circle {
       .pb {
         margin-top: 5vh;
         font-size: 3vh;
+        display: none;
       }
     }
     #para {
